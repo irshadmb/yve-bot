@@ -56,9 +56,9 @@
   version "10.0.9"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.0.9.tgz#7cb73a6ef9cf4e41e5354e114e824bfdfd96a6b4"
 
-"@types/node@^10.5.2":
-  version "10.5.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.5.2.tgz#f19f05314d5421fe37e74153254201a7bf00a707"
+"@types/node@^10.11.6":
+  version "10.11.6"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.11.6.tgz#ce5690df6cd917a9178439a1013e39a7e565c46e"
 
 abab@^1.0.4:
   version "1.0.4"
